@@ -171,7 +171,7 @@ function itemDataMarkup(itemData) {
   const details = lines.filter((line) => line !== quality && line !== category);
   return `<div class="item-data">
     ${quality || category ? `<div class="item-tags">${quality ? `<span>${escapeText(quality.slice(1, -1))}</span>` : ""}${category ? `<span>${escapeText(category.replace(/^-|-$|\s{2,}/g, "").trim())}</span>` : ""}</div>` : ""}
-    ${details.length ? `<details><summary>查看物品属性</summary><div class="item-description">${details.map((line) => `<p>${escapeText(line)}</p>`).join("")}</div></details>` : ""}
+    ${details.length ? `<details open><summary>查看物品属性</summary><div class="item-description">${details.map((line) => `<p>${escapeText(line)}</p>`).join("")}</div></details>` : ""}
   </div>`;
 }
 
