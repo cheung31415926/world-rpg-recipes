@@ -38,7 +38,9 @@ python generate_traditional_data.py
 
 `data.json` 与 `data-traditional.json` 包含 `drop_source_schema_version: 1` 和 `item_drop_sources`。该映射以物品 rawcode 为键；每项格式为 `{ item: { rawcode, name }, status, sources, evidence }`。`sources` 仅会收录经静态地图资料验证的 `{ rawcode, name }` 怪物来源。
 
-当前提取覆盖 **715** 个配方相关物品；静态怪物→物品映射覆盖为 **0**。单位对象的 `dropitems` 只含默认开关，JASS 的 LootChest 系统则在运行时构建掉落，无法可靠归属到单个怪物。因此所有条目明确使用 `status: "unknown"`、空 `sources`，并保留 `runtime_loot_system_unresolved` 证据记录。执行 `python extract_drop_sources.py` 可重建此保守数据集。
+目前覆盖 **715** 个配方相关物品：**232** 个已确认掉落来源、**483** 个 `unknown`。已确认项来自地图 JASS 掉落注册函数 `u1pO`，每个来源包含单位 rawcode、显示名称、百分比掉落率、独占状态及 `jass_loot_registration` 证据。`monster-icons.json` 和 `assets/monsters/` 为其中可取得图标的 84 个单位提供网页 PNG 图标。
+
+`unknown` 不等同于没有掉落：单位对象的 `dropitems` 只含默认开关，而未出现在已解析 JASS 注册表中的物品会保留 `runtime_loot_system_unresolved` 证据。`drop-source-input.json` 是导入的已验证解析结果；执行 `python extract_drop_sources.py` 后，再执行 `python generate_traditional_data.py` 可重建两种语言数据集。
 
 ## 功能
 

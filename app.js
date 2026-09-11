@@ -17,7 +17,7 @@ const elements = {
   localeButtons: [...document.querySelectorAll(".language-button")],
 };
 
-const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), dropSources: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
+const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), monsterIcons: new Map(), dropSources: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
 const colors = ["#d9ae63", "#4eb8a8", "#bf7891", "#7fa8d4", "#c28d5f", "#9b91cf"];
 const localeFiles = {
   traditional: { recipes: "./data-traditional.json", items: "./data-traditional.csv", language: "zh-Hant" },
@@ -37,6 +37,7 @@ const translations = {
     complexRecipes: "複雜配方", showing: "顯示", outputs: "件成品", baseMaterial: "基礎材料",
     browsing: "正在瀏覽：", recipe: "配方", requiredMaterials: "所需材料", record: "配方記錄",
     materialNotCraftable: "此物品未收錄為可製作成品", itemDetails: "物品屬性",
+    dropSources: "掉落來源", dropUnknown: "未確認", dropRate: "掉落率 {rate}%", exclusiveDrop: "獨占掉落",
     stats: "條配方 · {outputs} 件成品 · {alternates} 件替代路線 · {items} 條物品資料 · {icons} 個圖標",
   },
   simplified: {
@@ -52,6 +53,7 @@ const translations = {
     complexRecipes: "复杂配方", showing: "显示", outputs: "件成品", baseMaterial: "基础材料",
     browsing: "正在浏览：", recipe: "配方", requiredMaterials: "所需材料", record: "配方记录",
     materialNotCraftable: "此物品未收录为可制作成品", itemDetails: "物品属性",
+    dropSources: "掉落来源", dropUnknown: "未确认", dropRate: "掉落率 {rate}%", exclusiveDrop: "独占掉落",
     stats: "条配方 · {outputs} 件成品 · {alternates} 件替代路线 · {items} 条物品资料 · {icons} 个图标",
   },
 };
@@ -235,7 +237,14 @@ function itemDataMarkup(itemData, rawcode) {
 function dropSourceMarkup(rawcode) {
   const drop = state.dropSources.get(rawcode);
   if (!drop) return "";
-  return `<div class="drop-sources"><strong>掉落來源</strong><span>${drop.status === "unknown" ? "未確認（動態掉落系統）" : "無掉落資料"}</span></div>`;
+  if (drop.status !== "confirmed") {
+    return `<div class="drop-sources"><strong>${text("dropSources")}</strong><span>${text("dropUnknown")}</span></div>`;
+  }
+  return `<section class="drop-sources"><strong>${text("dropSources")}</strong><div class="drop-source-list">${drop.sources.map((source) => {
+    const unit = source.unit;
+    const image = state.monsterIcons.get(unit.rawcode);
+    return `<div class="drop-source">${image ? `<img src="${escapeText(image)}" alt="" class="monster-image">` : ""}<span class="drop-unit">${escapeText(unit.name)} <code>${escapeText(unit.rawcode)}</code></span><span class="drop-rate">${text("dropRate", { rate: source.drop_rate_percent })}${source.exclusive ? ` · ${text("exclusiveDrop")}` : ""}</span></div>`;
+  }).join("")}</div></section>`;
 }
 
 function materialCardMarkup(item, itemData) {
@@ -298,14 +307,15 @@ async function loadLocale(locale) {
   applyTranslations();
   try {
     const files = localeFiles[locale];
-    const [recipeResponse, itemResponse, iconResponse] = await Promise.all([fetch(files.recipes), fetch(files.items), fetch("./item-icons.json")]);
-    if (!recipeResponse.ok || !itemResponse.ok || !iconResponse.ok) throw new Error(`HTTP ${recipeResponse.status}/${itemResponse.status}/${iconResponse.status}`);
-    const [data, itemCsv, iconPaths] = await Promise.all([recipeResponse.json(), itemResponse.text(), iconResponse.json()]);
+    const [recipeResponse, itemResponse, iconResponse, monsterIconResponse] = await Promise.all([fetch(files.recipes), fetch(files.items), fetch("./item-icons.json"), fetch("./monster-icons.json")]);
+    if (!recipeResponse.ok || !itemResponse.ok || !iconResponse.ok || !monsterIconResponse.ok) throw new Error(`HTTP ${recipeResponse.status}/${itemResponse.status}/${iconResponse.status}/${monsterIconResponse.status}`);
+    const [data, itemCsv, iconPaths, monsterIconPaths] = await Promise.all([recipeResponse.json(), itemResponse.text(), iconResponse.json(), monsterIconResponse.json()]);
     if (!Array.isArray(data.recipes)) throw new Error("Invalid recipe data");
     state.groups = buildGroups(data.recipes);
     state.items = buildItemIndex(data.recipes);
     state.itemData = buildItemData(parseCsv(itemCsv));
     state.itemIcons = new Map(Object.entries(iconPaths));
+    state.monsterIcons = new Map(Object.entries(monsterIconPaths));
     state.dropSources = new Map(Object.entries(data.item_drop_sources || {}));
     const alternateCount = state.groups.filter((group) => group.recipes.length > 1).length;
     elements.footerStats.textContent = `${data.recipe_count} ${text("stats", { outputs: state.groups.length, alternates: alternateCount, items: state.itemData.size, icons: state.itemIcons.size })}`;
