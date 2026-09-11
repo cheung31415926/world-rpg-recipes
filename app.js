@@ -17,7 +17,7 @@ const elements = {
   localeButtons: [...document.querySelectorAll(".language-button")],
 };
 
-const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), monsterIcons: new Map(), dropSources: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
+const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), monsterIcons: new Map(), dropSources: new Map(), craftedBy: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
 const colors = ["#d9ae63", "#4eb8a8", "#bf7891", "#7fa8d4", "#c28d5f", "#9b91cf"];
 const localeFiles = {
   traditional: { recipes: "./data-traditional.json", items: "./data-traditional.csv", language: "zh-Hant" },
@@ -36,7 +36,7 @@ const translations = {
     footerTitle: "WORLD RPG · 配方資料庫", loadingRecipes: "讀取配方中…", searchResults: "搜尋結果",
     complexRecipes: "複雜配方", showing: "顯示", outputs: "件成品", baseMaterial: "基礎材料",
     browsing: "正在瀏覽：", recipe: "配方", requiredMaterials: "所需材料", record: "配方記錄",
-    materialNotCraftable: "此物品未收錄為可製作成品", itemDetails: "物品屬性",
+    materialNotCraftable: "此物品未收錄為可製作成品", itemDetails: "物品屬性", craftsInto: "{item} 可合成（{count}）", noCraftsInto: "此物品目前沒有可合成的成品",
     dropSources: "掉落來源", dropUnknown: "未確認", dropRate: "掉落率 {rate}%", exclusiveDrop: "獨占掉落", unitRawcode: "單位代碼",
     stats: "條配方 · {outputs} 件成品 · {alternates} 件替代路線 · {items} 條物品資料 · {icons} 個圖標",
   },
@@ -52,7 +52,7 @@ const translations = {
     footerTitle: "WORLD RPG · 配方数据库", loadingRecipes: "读取配方中…", searchResults: "搜索结果",
     complexRecipes: "复杂配方", showing: "显示", outputs: "件成品", baseMaterial: "基础材料",
     browsing: "正在浏览：", recipe: "配方", requiredMaterials: "所需材料", record: "配方记录",
-    materialNotCraftable: "此物品未收录为可制作成品", itemDetails: "物品属性",
+    materialNotCraftable: "此物品未收录为可制作成品", itemDetails: "物品属性", craftsInto: "{item} 可合成（{count}）", noCraftsInto: "此物品目前没有可合成的成品",
     dropSources: "掉落来源", dropUnknown: "未确认", dropRate: "掉落率 {rate}%", exclusiveDrop: "独占掉落", unitRawcode: "单位代码",
     stats: "条配方 · {outputs} 件成品 · {alternates} 件替代路线 · {items} 条物品资料 · {icons} 个图标",
   },
@@ -106,6 +106,20 @@ function buildItemIndex(recipes) {
     for (const item of recipe.ingredients) items.set(item.rawcode, item);
   }
   return items;
+}
+
+function buildCraftedBy(recipes) {
+  const craftedBy = new Map();
+  for (const recipe of recipes) {
+    for (const ingredient of recipe.ingredients) {
+      if (!craftedBy.has(ingredient.rawcode)) craftedBy.set(ingredient.rawcode, new Map());
+      craftedBy.get(ingredient.rawcode).set(recipe.output.rawcode, recipe.output);
+    }
+  }
+  return new Map([...craftedBy].map(([rawcode, outputs]) => [
+    rawcode,
+    [...outputs.values()].sort((a, b) => a.name.localeCompare(b.name, "zh-Hans-CN")),
+  ]));
 }
 
 function parseCsv(text) {
@@ -258,6 +272,22 @@ function materialCardMarkup(item, itemData) {
   </article>`;
 }
 
+function craftedIntoMarkup(item) {
+  const outputs = state.craftedBy.get(item.rawcode) || [];
+  return `<aside class="crafted-into-panel">
+    <h3>${text("craftsInto", { item: item.name, count: outputs.length })}</h3>
+    ${outputs.length ? `<div class="crafted-into-list">${outputs.map((output) => `
+      <a href="${itemHref(output.rawcode)}">${itemVisual(output)}
+        <span>${escapeText(output.name)}<code>${escapeText(output.rawcode)}</code></span>
+      </a>`).join("")}</div>` : `<p>${text("noCraftsInto")}</p>`}
+  </aside>`;
+}
+
+function selectedItemMarkup(item, group) {
+  const details = group ? recipeMarkup(group) : materialCardMarkup(item, state.itemData.get(item.rawcode));
+  return `<div class="item-detail-layout">${details}${craftedIntoMarkup(item)}</div>`;
+}
+
 function itemNavigationMarkup() {
   return `<nav class="item-navigation" aria-label="物品浏览导航">
     <button type="button" data-history-back>← 上一个物品</button>
@@ -273,11 +303,9 @@ function render() {
   renderOutputList();
   elements.resultsTitle.textContent = selectedItem ? selectedItem.name : state.query ? text("searchResults") : state.mode === "alternate" ? text("alternateRecipes") : state.mode === "materials" ? text("complexRecipes") : text("allRecipes");
   elements.resultsCount.textContent = selectedItem && !selectedGroup ? text("baseMaterial") : `${text("showing")} ${groups.length} / ${state.groups.length} ${text("outputs")}`;
-  elements.grid.innerHTML = groups.length
-    ? groups.map(recipeMarkup).join("")
-    : selectedItem
-      ? materialCardMarkup(selectedItem, state.itemData.get(selectedItem.rawcode))
-      : "";
+  elements.grid.innerHTML = selectedItem
+    ? selectedItemMarkup(selectedItem, selectedGroup)
+    : groups.length ? groups.map(recipeMarkup).join("") : "";
   elements.empty.hidden = groups.length !== 0 || Boolean(selectedItem);
   elements.activeFilter.hidden = !selectedItem;
   if (selectedItem) elements.activeFilterText.textContent = `${text("browsing")}${selectedItem.name}`;
@@ -313,6 +341,7 @@ async function loadLocale(locale) {
     if (!Array.isArray(data.recipes)) throw new Error("Invalid recipe data");
     state.groups = buildGroups(data.recipes);
     state.items = buildItemIndex(data.recipes);
+    state.craftedBy = buildCraftedBy(data.recipes);
     state.itemData = buildItemData(parseCsv(itemCsv));
     state.itemIcons = new Map(Object.entries(iconPaths));
     state.monsterIcons = new Map(Object.entries(monsterIconPaths));
