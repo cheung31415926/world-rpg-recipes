@@ -17,7 +17,7 @@ const elements = {
   localeButtons: [...document.querySelectorAll(".language-button")],
 };
 
-const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
+const state = { groups: [], items: new Map(), itemData: new Map(), itemIcons: new Map(), dropSources: new Map(), locale: "traditional", query: "", outputQuery: "", selected: null, mode: "all" };
 const colors = ["#d9ae63", "#4eb8a8", "#bf7891", "#7fa8d4", "#c28d5f", "#9b91cf"];
 const localeFiles = {
   traditional: { recipes: "./data-traditional.json", items: "./data-traditional.csv", language: "zh-Hant" },
@@ -216,12 +216,12 @@ function recipeMarkup(group) {
   return `<article class="recipe-card" style="--card-color:${color}">
     <div class="card-top">${itemVisual(output)}
       <div><h3 class="output-name"><a href="${itemHref(output.rawcode)}">${escapeText(output.name)}</a></h3><code class="rawcode">${escapeText(output.rawcode)}</code></div>
-    </div>${itemData ? itemDataMarkup(itemData) : ""}${alternatives}<p class="recipe-source">${text("record")} #${group.recipes[0].source_line}</p>
+    </div>${itemData ? itemDataMarkup(itemData, output.rawcode) : dropSourceMarkup(output.rawcode)}${alternatives}<p class="recipe-source">${text("record")} #${group.recipes[0].source_line}</p>
     ${state.selected ? itemNavigationMarkup() : ""}
   </article>`;
 }
 
-function itemDataMarkup(itemData) {
+function itemDataMarkup(itemData, rawcode) {
   const lines = itemData.description.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
   const quality = lines.find((line) => /^\[.+\]$/.test(line));
   const category = lines.find((line) => /^-\s*.+\s*-$/.test(line));
@@ -229,7 +229,13 @@ function itemDataMarkup(itemData) {
   return `<div class="item-data">
     ${quality || category ? `<div class="item-tags">${quality ? `<span>${escapeText(quality.slice(1, -1))}</span>` : ""}${category ? `<span>${escapeText(category.replace(/^-|-$|\s{2,}/g, "").trim())}</span>` : ""}</div>` : ""}
     ${details.length ? `<div class="item-description" aria-label="${text("itemDetails")}">${details.map((line) => `<p>${escapeText(line)}</p>`).join("")}</div>` : ""}
-  </div>`;
+  </div>${dropSourceMarkup(rawcode)}`;
+}
+
+function dropSourceMarkup(rawcode) {
+  const drop = state.dropSources.get(rawcode);
+  if (!drop) return "";
+  return `<div class="drop-sources"><strong>掉落來源</strong><span>${drop.status === "unknown" ? "未確認（動態掉落系統）" : "無掉落資料"}</span></div>`;
 }
 
 function materialCardMarkup(item, itemData) {
@@ -237,7 +243,7 @@ function materialCardMarkup(item, itemData) {
   return `<article class="recipe-card material-card" style="--card-color:${color}">
     <div class="card-top">${itemVisual(item)}
       <div><h3 class="output-name">${escapeText(item.name)}</h3><code class="rawcode">${escapeText(item.rawcode)}</code></div>
-    </div>${itemData ? itemDataMarkup(itemData) : ""}
+    </div>${itemData ? itemDataMarkup(itemData, item.rawcode) : dropSourceMarkup(item.rawcode)}
     <p class="recipe-source">${text("materialNotCraftable")}</p>
     ${itemNavigationMarkup()}
   </article>`;
@@ -300,6 +306,7 @@ async function loadLocale(locale) {
     state.items = buildItemIndex(data.recipes);
     state.itemData = buildItemData(parseCsv(itemCsv));
     state.itemIcons = new Map(Object.entries(iconPaths));
+    state.dropSources = new Map(Object.entries(data.item_drop_sources || {}));
     const alternateCount = state.groups.filter((group) => group.recipes.length > 1).length;
     elements.footerStats.textContent = `${data.recipe_count} ${text("stats", { outputs: state.groups.length, alternates: alternateCount, items: state.itemData.size, icons: state.itemIcons.size })}`;
     selectFromHash();

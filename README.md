@@ -34,6 +34,12 @@ python generate_item_icons.py "C:\Users\Cheung\Documents\Warcraft III\Maps\Downl
 python generate_traditional_data.py
 ```
 
+## 掉落来源资料
+
+`data.json` 与 `data-traditional.json` 包含 `drop_source_schema_version: 1` 和 `item_drop_sources`。该映射以物品 rawcode 为键；每项格式为 `{ item: { rawcode, name }, status, sources, evidence }`。`sources` 仅会收录经静态地图资料验证的 `{ rawcode, name }` 怪物来源。
+
+当前提取覆盖 **715** 个配方相关物品；静态怪物→物品映射覆盖为 **0**。单位对象的 `dropitems` 只含默认开关，JASS 的 LootChest 系统则在运行时构建掉落，无法可靠归属到单个怪物。因此所有条目明确使用 `status: "unknown"`、空 `sources`，并保留 `runtime_loot_system_unresolved` 证据记录。执行 `python extract_drop_sources.py` 可重建此保守数据集。
+
 ## 功能
 
 - 搜索成品、材料名称和物品代码
