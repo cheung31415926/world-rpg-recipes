@@ -1,6 +1,6 @@
 # World RPG 配方典藏
 
-一个零依赖的静态配方浏览站点。页面直接读取根目录的 `data.json`、`data.csv` 和 `item-icons.json`：前者用于合成路线，后两者用于展示物品品质、类别、属性说明和图标。按可制作物品聚合配方，并将同一成品的多条记录展示为替代合成路线；原始数据不会被修改。
+一个零依赖的静态配方浏览站点。页面默认以繁體中文读取 `data-traditional.json`、`data-traditional.csv` 和 `item-icons.json`；右上角可切换至简体中文的 `data.json` 与 `data.csv`。这些数据用于合成路线、物品品质、类别、直接显示的属性说明和图标；原始数据不会被修改。
 
 仓库同时保留用于复现数据与图标的 `data/`、`txt/`、提取脚本和 `generate_item_icons.py`。大型地图二进制及可重新生成的转换中间文件不会提交。
 
@@ -26,9 +26,18 @@ python -m http.server 8000
 python generate_item_icons.py "C:\Users\Cheung\Documents\Warcraft III\Maps\Download\000世界RPGv0.92c0.1"
 ```
 
+## 更新繁體資料
+
+繁體数据集由简体原始数据生成。安装 `opencc-python-reimplemented` 后执行：
+
+```powershell
+python generate_traditional_data.py
+```
+
 ## 功能
 
 - 搜索成品、材料名称和物品代码
+- 搜索成品、材料及 CSV 物品属性说明
 - 从“装备目录”按成品浏览并二次筛选
 - 每个成品与材料都可点击并跳转至其可分享的物品链接；基础材料会显示暂无合成配方
 - 非主頁的物品详情卡提供浏览器式的“上一个物品”、“回主頁”和“下一个物品”导航
