@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#10151a" />
+    <meta name="description" content="World RPG 合成配方查询" />
+    <title>World RPG · 配方典藏</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-glow" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#" aria-label="返回配方典藏首页">
+        <span class="brand-mark">W</span>
+        <span><strong>WORLD RPG</strong><small>CRAFTING ARCHIVE</small></span>
+      </a>
+      <p class="header-note">探索每一件装备的锻造之路</p>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">冒险者工坊</p>
+        <h1 id="page-title">配方典藏</h1>
+        <p class="hero-copy">从材料到传说装备，快速查找你需要的合成路线。</p>
+        <div class="search-panel">
+          <label class="search-box" for="search-input">
+            <span aria-hidden="true">⌕</span>
+            <input id="search-input" type="search" placeholder="搜索装备、材料或物品代码…" autocomplete="off" />
+            <button id="clear-search" type="button" aria-label="清除搜索">×</button>
+          </label>
+          <div class="quick-filters" aria-label="快速筛选">
+            <button class="filter-chip is-active" type="button" data-filter="all">全部配方</button>
+            <button class="filter-chip" type="button" data-filter="alternate">多种配方</button>
+            <button class="filter-chip" type="button" data-filter="materials">三种材料</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="catalog" aria-label="配方目录">
+        <aside class="browse-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-kicker">按成品浏览</p>
+              <h2>装备目录</h2>
+            </div>
+            <span id="output-count" class="count-badge">—</span>
+          </div>
+          <label class="browse-search" for="output-filter">
+            <span aria-hidden="true">⌕</span>
+            <input id="output-filter" type="search" placeholder="筛选成品…" autocomplete="off" />
+          </label>
+          <nav id="output-list" class="output-list" aria-label="可制作物品列表"></nav>
+        </aside>
+
+        <section class="recipes-panel" aria-live="polite">
+          <div class="results-header">
+            <div>
+              <p class="section-kicker">锻造配方</p>
+              <h2 id="results-title">全部配方</h2>
+            </div>
+            <p id="results-count" class="results-count">正在载入…</p>
+          </div>
+          <div id="active-filter" class="active-filter" hidden>
+            <span></span><button type="button">查看全部</button>
+          </div>
+          <div id="recipe-grid" class="recipe-grid"></div>
+          <div id="empty-state" class="empty-state" hidden>
+            <div class="empty-icon">◇</div>
+            <h3>没有找到匹配的配方</h3>
+            <p>试试不同的物品名称、材料名称或物品代码。</p>
+            <button id="reset-filters" class="button-secondary" type="button">重置筛选</button>
+          </div>
+          <div id="error-state" class="empty-state" hidden>
+            <div class="empty-icon">!</div>
+            <h3>配方数据无法加载</h3>
+            <p>请通过本地服务器打开网站，而不是直接双击 HTML 文件。</p>
+          </div>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <span>WORLD RPG · 配方数据库</span>
+      <span id="footer-stats">读取配方中…</span>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
