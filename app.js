@@ -37,7 +37,7 @@ const translations = {
     complexRecipes: "複雜配方", showing: "顯示", outputs: "件成品", baseMaterial: "基礎材料",
     browsing: "正在瀏覽：", recipe: "配方", requiredMaterials: "所需材料", record: "配方記錄",
     materialNotCraftable: "此物品未收錄為可製作成品", itemDetails: "物品屬性",
-    dropSources: "掉落來源", dropUnknown: "未確認", dropRate: "掉落率 {rate}%", exclusiveDrop: "獨占掉落",
+    dropSources: "掉落來源", dropUnknown: "未確認", dropRate: "掉落率 {rate}%", exclusiveDrop: "獨占掉落", unitRawcode: "單位代碼",
     stats: "條配方 · {outputs} 件成品 · {alternates} 件替代路線 · {items} 條物品資料 · {icons} 個圖標",
   },
   simplified: {
@@ -53,7 +53,7 @@ const translations = {
     complexRecipes: "复杂配方", showing: "显示", outputs: "件成品", baseMaterial: "基础材料",
     browsing: "正在浏览：", recipe: "配方", requiredMaterials: "所需材料", record: "配方记录",
     materialNotCraftable: "此物品未收录为可制作成品", itemDetails: "物品属性",
-    dropSources: "掉落来源", dropUnknown: "未确认", dropRate: "掉落率 {rate}%", exclusiveDrop: "独占掉落",
+    dropSources: "掉落来源", dropUnknown: "未确认", dropRate: "掉落率 {rate}%", exclusiveDrop: "独占掉落", unitRawcode: "单位代码",
     stats: "条配方 · {outputs} 件成品 · {alternates} 件替代路线 · {items} 条物品资料 · {icons} 个图标",
   },
 };
@@ -243,7 +243,7 @@ function dropSourceMarkup(rawcode) {
   return `<section class="drop-sources"><strong>${text("dropSources")}</strong><div class="drop-source-list">${drop.sources.map((source) => {
     const unit = source.unit;
     const image = state.monsterIcons.get(unit.rawcode);
-    return `<div class="drop-source">${image ? `<img src="${escapeText(image)}" alt="" class="monster-image">` : ""}<span class="drop-unit">${escapeText(unit.name)} <code>${escapeText(unit.rawcode)}</code></span><span class="drop-rate">${text("dropRate", { rate: source.drop_rate_percent })}${source.exclusive ? ` · ${text("exclusiveDrop")}` : ""}</span></div>`;
+    return `<div class="drop-source">${image ? `<img src="${escapeText(image)}" alt="" class="monster-image">` : ""}<span class="drop-unit">${escapeText(unit.name)} <code>${text("unitRawcode")}：${escapeText(unit.rawcode)}</code></span><span class="drop-rate">${text("dropRate", { rate: source.drop_rate_percent })}${source.exclusive ? ` · ${text("exclusiveDrop")}` : ""}</span></div>`;
   }).join("")}</div></section>`;
 }
 

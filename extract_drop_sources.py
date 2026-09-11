@@ -18,11 +18,18 @@ def main() -> None:
     }
     data["drop_source_schema_version"] = 1
     drop_data = json.loads(SOURCE.read_text(encoding="utf-8"))
-    confirmed = {
-        item["rawcode"]: item["drop_sources"]
-        for item in drop_data["drop_items"]
-        if item["drop_sources"]
-    }
+    confirmed = {}
+    for item in drop_data["drop_items"]:
+        sources = item["drop_sources"]
+        for source in sources:
+            rawcode = source["unit_rawcode"]
+            name = source["unit_name"].strip()
+            if not name or name == rawcode:
+                raise ValueError(
+                    f"Drop source for {item['rawcode']} has no resolved unit name: {rawcode}"
+                )
+        if sources:
+            confirmed[item["rawcode"]] = sources
     data["item_drop_sources"] = {
         rawcode: {
             "item": {"rawcode": rawcode, "name": name},
