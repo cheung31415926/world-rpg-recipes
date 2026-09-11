@@ -19519,7 +19519,7 @@
         {
           "unit": {
             "rawcode": "h06T",
-            "name": "h06T"
+            "name": "水靈戰神"
           },
           "drop_rate_percent": 0.75,
           "exclusive": false,
@@ -19555,7 +19555,7 @@
         {
           "unit": {
             "rawcode": "n00A",
-            "name": "n00A"
+            "name": "銀色利爪族狼"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -19591,7 +19591,7 @@
         {
           "unit": {
             "rawcode": "n00H",
-            "name": "n00H"
+            "name": "巨魔"
           },
           "drop_rate_percent": 2.0,
           "exclusive": false,
@@ -19796,7 +19796,7 @@
         {
           "unit": {
             "rawcode": "n00O",
-            "name": "n00O"
+            "name": "巨魔領主"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -19819,7 +19819,7 @@
         {
           "unit": {
             "rawcode": "h08K",
-            "name": "h08K"
+            "name": "公爵 拉撒路"
           },
           "drop_rate_percent": 1.2,
           "exclusive": false,
@@ -19855,7 +19855,7 @@
         {
           "unit": {
             "rawcode": "o003",
-            "name": "o003"
+            "name": "自然守護者"
           },
           "drop_rate_percent": 50.0,
           "exclusive": true,
@@ -20190,7 +20190,7 @@
         {
           "unit": {
             "rawcode": "h09B",
-            "name": "h09B"
+            "name": "土靈戰神蓋亞"
           },
           "drop_rate_percent": 0.9,
           "exclusive": false,
@@ -20239,7 +20239,7 @@
         {
           "unit": {
             "rawcode": "h0AB",
-            "name": "h0AB"
+            "name": "光之引導者 凱梅爾"
           },
           "drop_rate_percent": 0.4,
           "exclusive": false,
@@ -20340,7 +20340,7 @@
         {
           "unit": {
             "rawcode": "h060",
-            "name": "h060"
+            "name": "火靈戰神·伊弗利特"
           },
           "drop_rate_percent": 0.75,
           "exclusive": false,
@@ -20363,7 +20363,7 @@
         {
           "unit": {
             "rawcode": "h04O",
-            "name": "h04O"
+            "name": "雷電戰神 瓦爾托拉"
           },
           "drop_rate_percent": 0.75,
           "exclusive": false,
@@ -20477,7 +20477,7 @@
         {
           "unit": {
             "rawcode": "h0AB",
-            "name": "h0AB"
+            "name": "光之引導者 凱梅爾"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20500,7 +20500,7 @@
         {
           "unit": {
             "rawcode": "h0AB",
-            "name": "h0AB"
+            "name": "光之引導者 凱梅爾"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20523,7 +20523,7 @@
         {
           "unit": {
             "rawcode": "h0AB",
-            "name": "h0AB"
+            "name": "光之引導者 凱梅爾"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20559,7 +20559,7 @@
         {
           "unit": {
             "rawcode": "h077",
-            "name": "h077"
+            "name": "地底君主 阿迦瑞斯"
           },
           "drop_rate_percent": 0.75,
           "exclusive": false,
@@ -20595,7 +20595,7 @@
         {
           "unit": {
             "rawcode": "h0A1",
-            "name": "h0A1"
+            "name": "靈魂收割者·斯蒂裏克斯"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20618,7 +20618,7 @@
         {
           "unit": {
             "rawcode": "h09V",
-            "name": "h09V"
+            "name": "古代魔導機器"
           },
           "drop_rate_percent": 0.15,
           "exclusive": true,
@@ -20797,7 +20797,7 @@
         {
           "unit": {
             "rawcode": "h0A1",
-            "name": "h0A1"
+            "name": "靈魂收割者·斯蒂裏克斯"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20820,7 +20820,7 @@
         {
           "unit": {
             "rawcode": "h0A1",
-            "name": "h0A1"
+            "name": "靈魂收割者·斯蒂裏克斯"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -20843,7 +20843,7 @@
         {
           "unit": {
             "rawcode": "h09B",
-            "name": "h09B"
+            "name": "土靈戰神蓋亞"
           },
           "drop_rate_percent": 1.2,
           "exclusive": false,
@@ -20866,7 +20866,7 @@
         {
           "unit": {
             "rawcode": "h09B",
-            "name": "h09B"
+            "name": "土靈戰神蓋亞"
           },
           "drop_rate_percent": 1.2,
           "exclusive": false,
@@ -20902,7 +20902,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 15.0,
           "exclusive": false,
@@ -20925,7 +20925,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -20948,7 +20948,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 12.5,
           "exclusive": false,
@@ -20971,7 +20971,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -21017,7 +21017,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21040,7 +21040,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21122,7 +21122,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21131,7 +21131,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21140,7 +21140,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -21324,7 +21324,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 12.5,
           "exclusive": false,
@@ -21347,7 +21347,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21370,7 +21370,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21379,7 +21379,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -21388,7 +21388,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -21676,7 +21676,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -21712,7 +21712,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -21944,7 +21944,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -21967,7 +21967,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22154,7 +22154,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22163,7 +22163,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22251,7 +22251,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -22300,7 +22300,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -22323,7 +22323,7 @@
         {
           "unit": {
             "rawcode": "n01E",
-            "name": "n01E"
+            "name": "巨型極地熊"
           },
           "drop_rate_percent": 40.0,
           "exclusive": true,
@@ -22346,7 +22346,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -22382,7 +22382,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22391,7 +22391,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22414,7 +22414,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -22463,7 +22463,7 @@
         {
           "unit": {
             "rawcode": "h09V",
-            "name": "h09V"
+            "name": "古代魔導機器"
           },
           "drop_rate_percent": 0.6,
           "exclusive": false,
@@ -22486,7 +22486,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22509,7 +22509,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22518,7 +22518,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22541,7 +22541,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22564,7 +22564,7 @@
         {
           "unit": {
             "rawcode": "n023",
-            "name": "n023"
+            "name": "冰霜領主卡爾特茲"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22573,7 +22573,7 @@
         {
           "unit": {
             "rawcode": "H01F",
-            "name": "H01F"
+            "name": "蜘蛛女皇"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -22661,7 +22661,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -22733,7 +22733,7 @@
         {
           "unit": {
             "rawcode": "h09B",
-            "name": "h09B"
+            "name": "土靈戰神蓋亞"
           },
           "drop_rate_percent": 1.2,
           "exclusive": false,
@@ -22831,7 +22831,7 @@
         {
           "unit": {
             "rawcode": "h00Y",
-            "name": "h00Y"
+            "name": "巨人魔像"
           },
           "drop_rate_percent": 12.5,
           "exclusive": true,
@@ -22854,7 +22854,7 @@
         {
           "unit": {
             "rawcode": "h00Y",
-            "name": "h00Y"
+            "name": "巨人魔像"
           },
           "drop_rate_percent": 12.5,
           "exclusive": true,
@@ -22863,7 +22863,7 @@
         {
           "unit": {
             "rawcode": "n037",
-            "name": "n037"
+            "name": "瓦幾內拉古堡 亡靈"
           },
           "drop_rate_percent": 0.05,
           "exclusive": false,
@@ -22973,7 +22973,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -23009,7 +23009,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -23058,7 +23058,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -23081,7 +23081,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -23182,7 +23182,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -23309,7 +23309,7 @@
         {
           "unit": {
             "rawcode": "H00V",
-            "name": "H00V"
+            "name": "聖堡阿瓦隆 守門人"
           },
           "drop_rate_percent": 10.0,
           "exclusive": false,
@@ -23345,7 +23345,7 @@
         {
           "unit": {
             "rawcode": "h014",
-            "name": "h014"
+            "name": "觸鬚統治者"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23368,7 +23368,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23391,7 +23391,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23400,7 +23400,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23423,7 +23423,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23446,7 +23446,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23455,7 +23455,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23478,7 +23478,7 @@
         {
           "unit": {
             "rawcode": "h014",
-            "name": "h014"
+            "name": "觸鬚統治者"
           },
           "drop_rate_percent": 12.5,
           "exclusive": true,
@@ -23501,7 +23501,7 @@
         {
           "unit": {
             "rawcode": "h014",
-            "name": "h014"
+            "name": "觸鬚統治者"
           },
           "drop_rate_percent": 12.5,
           "exclusive": true,
@@ -23563,7 +23563,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23572,7 +23572,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23631,7 +23631,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23654,7 +23654,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -23677,7 +23677,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23713,7 +23713,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23736,7 +23736,7 @@
         {
           "unit": {
             "rawcode": "n02L",
-            "name": "n02L"
+            "name": "鮮血亡靈"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -23772,7 +23772,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23808,7 +23808,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23844,7 +23844,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23867,7 +23867,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23929,7 +23929,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -23965,7 +23965,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -24040,7 +24040,7 @@
         {
           "unit": {
             "rawcode": "n030",
-            "name": "n030"
+            "name": "祕境守護者法老他爺"
           },
           "drop_rate_percent": 1.25,
           "exclusive": false,
@@ -24141,7 +24141,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -24255,7 +24255,7 @@
         {
           "unit": {
             "rawcode": "o004",
-            "name": "o004"
+            "name": "海象"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -24278,7 +24278,7 @@
         {
           "unit": {
             "rawcode": "o005",
-            "name": "o005"
+            "name": "金剛"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -24301,7 +24301,7 @@
         {
           "unit": {
             "rawcode": "o005",
-            "name": "o005"
+            "name": "金剛"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -24324,7 +24324,7 @@
         {
           "unit": {
             "rawcode": "o003",
-            "name": "o003"
+            "name": "自然守護者"
           },
           "drop_rate_percent": 50.0,
           "exclusive": true,
@@ -24451,7 +24451,7 @@
         {
           "unit": {
             "rawcode": "o000",
-            "name": "o000"
+            "name": "主天使 哈乜嘢"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -24474,7 +24474,7 @@
         {
           "unit": {
             "rawcode": "o000",
-            "name": "o000"
+            "name": "主天使 哈乜嘢"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -24497,7 +24497,7 @@
         {
           "unit": {
             "rawcode": "o000",
-            "name": "o000"
+            "name": "主天使 哈乜嘢"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -24546,7 +24546,7 @@
         {
           "unit": {
             "rawcode": "o000",
-            "name": "o000"
+            "name": "主天使 哈乜嘢"
           },
           "drop_rate_percent": 1.25,
           "exclusive": false,
@@ -24608,7 +24608,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -24794,7 +24794,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -24817,7 +24817,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -25035,7 +25035,7 @@
         {
           "unit": {
             "rawcode": "H00V",
-            "name": "H00V"
+            "name": "聖堡阿瓦隆 守門人"
           },
           "drop_rate_percent": 0.5,
           "exclusive": false,
@@ -25123,7 +25123,7 @@
         {
           "unit": {
             "rawcode": "n01J",
-            "name": "n01J"
+            "name": "火焰統治者 拉格納"
           },
           "drop_rate_percent": 1.0,
           "exclusive": true,
@@ -25146,7 +25146,7 @@
         {
           "unit": {
             "rawcode": "h014",
-            "name": "h014"
+            "name": "觸鬚統治者"
           },
           "drop_rate_percent": 1.0,
           "exclusive": true,
@@ -25169,7 +25169,7 @@
         {
           "unit": {
             "rawcode": "h00Y",
-            "name": "h00Y"
+            "name": "巨人魔像"
           },
           "drop_rate_percent": 1.0,
           "exclusive": true,
@@ -25192,7 +25192,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 0.5,
           "exclusive": false,
@@ -25215,7 +25215,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 1.0,
           "exclusive": false,
@@ -25729,7 +25729,7 @@
         {
           "unit": {
             "rawcode": "h060",
-            "name": "h060"
+            "name": "火靈戰神·伊弗利特"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -25752,7 +25752,7 @@
         {
           "unit": {
             "rawcode": "h060",
-            "name": "h060"
+            "name": "火靈戰神·伊弗利特"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -25775,7 +25775,7 @@
         {
           "unit": {
             "rawcode": "h04O",
-            "name": "h04O"
+            "name": "雷電戰神 瓦爾托拉"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -25798,7 +25798,7 @@
         {
           "unit": {
             "rawcode": "h04O",
-            "name": "h04O"
+            "name": "雷電戰神 瓦爾托拉"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -25821,7 +25821,7 @@
         {
           "unit": {
             "rawcode": "h06T",
-            "name": "h06T"
+            "name": "水靈戰神"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -25844,7 +25844,7 @@
         {
           "unit": {
             "rawcode": "h06T",
-            "name": "h06T"
+            "name": "水靈戰神"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -26062,7 +26062,7 @@
         {
           "unit": {
             "rawcode": "h060",
-            "name": "h060"
+            "name": "火靈戰神·伊弗利特"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -26085,7 +26085,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -26290,7 +26290,7 @@
         {
           "unit": {
             "rawcode": "h09V",
-            "name": "h09V"
+            "name": "古代魔導機器"
           },
           "drop_rate_percent": 0.8,
           "exclusive": false,
@@ -26365,7 +26365,7 @@
         {
           "unit": {
             "rawcode": "h06T",
-            "name": "h06T"
+            "name": "水靈戰神"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -26388,7 +26388,7 @@
         {
           "unit": {
             "rawcode": "h09B",
-            "name": "h09B"
+            "name": "土靈戰神蓋亞"
           },
           "drop_rate_percent": 0.2,
           "exclusive": true,
@@ -26424,7 +26424,7 @@
         {
           "unit": {
             "rawcode": "n03S",
-            "name": "n03S"
+            "name": "遠古 骨龍"
           },
           "drop_rate_percent": 0.25,
           "exclusive": false,
@@ -26941,7 +26941,7 @@
         {
           "unit": {
             "rawcode": "h077",
-            "name": "h077"
+            "name": "地底君主 阿迦瑞斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -26964,7 +26964,7 @@
         {
           "unit": {
             "rawcode": "h077",
-            "name": "h077"
+            "name": "地底君主 阿迦瑞斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -26987,7 +26987,7 @@
         {
           "unit": {
             "rawcode": "h077",
-            "name": "h077"
+            "name": "地底君主 阿迦瑞斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -27010,7 +27010,7 @@
         {
           "unit": {
             "rawcode": "h09V",
-            "name": "h09V"
+            "name": "古代魔導機器"
           },
           "drop_rate_percent": 0.8,
           "exclusive": false,
@@ -27033,7 +27033,7 @@
         {
           "unit": {
             "rawcode": "h08K",
-            "name": "h08K"
+            "name": "公爵 拉撒路"
           },
           "drop_rate_percent": 0.25,
           "exclusive": true,
@@ -27056,7 +27056,7 @@
         {
           "unit": {
             "rawcode": "h077",
-            "name": "h077"
+            "name": "地底君主 阿迦瑞斯"
           },
           "drop_rate_percent": 2.0,
           "exclusive": false,
@@ -27365,7 +27365,7 @@
         {
           "unit": {
             "rawcode": "h07P",
-            "name": "h07P"
+            "name": "海洋守護者"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -27544,7 +27544,7 @@
         {
           "unit": {
             "rawcode": "n00G",
-            "name": "n00G"
+            "name": "熊人"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -27553,7 +27553,7 @@
         {
           "unit": {
             "rawcode": "n00K",
-            "name": "n00K"
+            "name": "熊怪狂戰士"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -27562,7 +27562,7 @@
         {
           "unit": {
             "rawcode": "n00L",
-            "name": "n00L"
+            "name": "熊人巫醫"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -27571,7 +27571,7 @@
         {
           "unit": {
             "rawcode": "n01B",
-            "name": "n01B"
+            "name": "熊怪巨人"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -27607,7 +27607,7 @@
         {
           "unit": {
             "rawcode": "n015",
-            "name": "n015"
+            "name": "龍龜"
           },
           "drop_rate_percent": 40.0,
           "exclusive": false,
@@ -27643,7 +27643,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 0.75,
           "exclusive": false,
@@ -27679,7 +27679,7 @@
         {
           "unit": {
             "rawcode": "h08K",
-            "name": "h08K"
+            "name": "公爵 拉撒路"
           },
           "drop_rate_percent": 1.5,
           "exclusive": false,
@@ -27702,7 +27702,7 @@
         {
           "unit": {
             "rawcode": "h08K",
-            "name": "h08K"
+            "name": "公爵 拉撒路"
           },
           "drop_rate_percent": 1.5,
           "exclusive": false,
@@ -27725,7 +27725,7 @@
         {
           "unit": {
             "rawcode": "h08K",
-            "name": "h08K"
+            "name": "公爵 拉撒路"
           },
           "drop_rate_percent": 1.5,
           "exclusive": false,
@@ -27930,7 +27930,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -28054,7 +28054,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -28077,7 +28077,7 @@
         {
           "unit": {
             "rawcode": "n02Z",
-            "name": "n02Z"
+            "name": "遠古熔岩巨獸"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -28113,7 +28113,7 @@
         {
           "unit": {
             "rawcode": "n02Z",
-            "name": "n02Z"
+            "name": "遠古熔岩巨獸"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -28149,7 +28149,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -28172,7 +28172,7 @@
         {
           "unit": {
             "rawcode": "n03S",
-            "name": "n03S"
+            "name": "遠古 骨龍"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -28208,7 +28208,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 1.5,
           "exclusive": false,
@@ -28231,7 +28231,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -28254,7 +28254,7 @@
         {
           "unit": {
             "rawcode": "orai",
-            "name": "orai"
+            "name": "帝王蟹"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -28329,7 +28329,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -28352,7 +28352,7 @@
         {
           "unit": {
             "rawcode": "h01B",
-            "name": "h01B"
+            "name": "元素領主"
           },
           "drop_rate_percent": 0.25,
           "exclusive": true,
@@ -28375,7 +28375,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -28398,7 +28398,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -28434,7 +28434,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 7.5,
           "exclusive": false,
@@ -28457,7 +28457,7 @@
         {
           "unit": {
             "rawcode": "n01J",
-            "name": "n01J"
+            "name": "火焰統治者 拉格納"
           },
           "drop_rate_percent": 25.0,
           "exclusive": true,
@@ -28532,7 +28532,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -28568,7 +28568,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 0.1,
           "exclusive": true,
@@ -28773,7 +28773,7 @@
         {
           "unit": {
             "rawcode": "h010",
-            "name": "h010"
+            "name": "遠古法老"
           },
           "drop_rate_percent": 0.05,
           "exclusive": false,
@@ -28782,7 +28782,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -28805,7 +28805,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -28906,7 +28906,7 @@
         {
           "unit": {
             "rawcode": "o005",
-            "name": "o005"
+            "name": "金剛"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -29020,7 +29020,7 @@
         {
           "unit": {
             "rawcode": "h034",
-            "name": "h034"
+            "name": "冰霜巨蛛 極寒領主"
           },
           "drop_rate_percent": 0.25,
           "exclusive": true,
@@ -29043,7 +29043,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -29079,7 +29079,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -29102,7 +29102,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 1.0,
           "exclusive": false,
@@ -29125,7 +29125,7 @@
         {
           "unit": {
             "rawcode": "n01Y",
-            "name": "n01Y"
+            "name": "惡魔領主 惡魔"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -29148,7 +29148,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29184,7 +29184,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -29207,7 +29207,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29292,7 +29292,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29315,7 +29315,7 @@
         {
           "unit": {
             "rawcode": "h04O",
-            "name": "h04O"
+            "name": "雷電戰神 瓦爾托拉"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29338,7 +29338,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -29361,7 +29361,7 @@
         {
           "unit": {
             "rawcode": "n030",
-            "name": "n030"
+            "name": "祕境守護者法老他爺"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29410,7 +29410,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29446,7 +29446,7 @@
         {
           "unit": {
             "rawcode": "o003",
-            "name": "o003"
+            "name": "自然守護者"
           },
           "drop_rate_percent": 2.0,
           "exclusive": false,
@@ -29482,7 +29482,7 @@
         {
           "unit": {
             "rawcode": "n030",
-            "name": "n030"
+            "name": "祕境守護者法老他爺"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -29505,7 +29505,7 @@
         {
           "unit": {
             "rawcode": "h04O",
-            "name": "h04O"
+            "name": "雷電戰神 瓦爾托拉"
           },
           "drop_rate_percent": 2.0,
           "exclusive": false,
@@ -29514,7 +29514,7 @@
         {
           "unit": {
             "rawcode": "h060",
-            "name": "h060"
+            "name": "火靈戰神·伊弗利特"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29523,7 +29523,7 @@
         {
           "unit": {
             "rawcode": "h06T",
-            "name": "h06T"
+            "name": "水靈戰神"
           },
           "drop_rate_percent": 3.0,
           "exclusive": false,
@@ -29546,7 +29546,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -29569,7 +29569,7 @@
         {
           "unit": {
             "rawcode": "n03S",
-            "name": "n03S"
+            "name": "遠古 骨龍"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -29618,7 +29618,7 @@
         {
           "unit": {
             "rawcode": "orai",
-            "name": "orai"
+            "name": "帝王蟹"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -29654,7 +29654,7 @@
         {
           "unit": {
             "rawcode": "n02M",
-            "name": "n02M"
+            "name": "梟獸 雷奧利斯"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -29739,7 +29739,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 1.25,
           "exclusive": false,
@@ -29762,7 +29762,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -29785,7 +29785,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 1.25,
           "exclusive": false,
@@ -29834,7 +29834,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -29896,7 +29896,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -29971,7 +29971,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -29994,7 +29994,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 3.75,
           "exclusive": false,
@@ -30017,7 +30017,7 @@
         {
           "unit": {
             "rawcode": "h0A1",
-            "name": "h0A1"
+            "name": "靈魂收割者·斯蒂裏克斯"
           },
           "drop_rate_percent": 0.4,
           "exclusive": false,
@@ -30040,7 +30040,7 @@
         {
           "unit": {
             "rawcode": "n02Z",
-            "name": "n02Z"
+            "name": "遠古熔岩巨獸"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -30063,7 +30063,7 @@
         {
           "unit": {
             "rawcode": "n01E",
-            "name": "n01E"
+            "name": "巨型極地熊"
           },
           "drop_rate_percent": 40.0,
           "exclusive": true,
@@ -30112,7 +30112,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -30135,7 +30135,7 @@
         {
           "unit": {
             "rawcode": "n03Y",
-            "name": "n03Y"
+            "name": "瓦幾內拉古堡 怪人"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -30197,7 +30197,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -30298,7 +30298,7 @@
         {
           "unit": {
             "rawcode": "n01W",
-            "name": "n01W"
+            "name": "傑克隆登"
           },
           "drop_rate_percent": 0.25,
           "exclusive": true,
@@ -30321,7 +30321,7 @@
         {
           "unit": {
             "rawcode": "n02Z",
-            "name": "n02Z"
+            "name": "遠古熔岩巨獸"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -30370,7 +30370,7 @@
         {
           "unit": {
             "rawcode": "n030",
-            "name": "n030"
+            "name": "祕境守護者法老他爺"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -30393,7 +30393,7 @@
         {
           "unit": {
             "rawcode": "n02Y",
-            "name": "n02Y"
+            "name": "被詛咒的冰霜巨龍 辛德拉苟薩"
           },
           "drop_rate_percent": 1.5,
           "exclusive": false,
@@ -30442,7 +30442,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -30478,7 +30478,7 @@
         {
           "unit": {
             "rawcode": "h00T",
-            "name": "h00T"
+            "name": "瓦幾內拉古堡 爵士 領主"
           },
           "drop_rate_percent": 25.0,
           "exclusive": true,
@@ -30501,7 +30501,7 @@
         {
           "unit": {
             "rawcode": "n036",
-            "name": "n036"
+            "name": "噬魂屍蟲"
           },
           "drop_rate_percent": 0.1,
           "exclusive": false,
@@ -30624,7 +30624,7 @@
         {
           "unit": {
             "rawcode": "n037",
-            "name": "n037"
+            "name": "瓦幾內拉古堡 亡靈"
           },
           "drop_rate_percent": 0.1,
           "exclusive": false,
@@ -30705,7 +30705,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -30741,7 +30741,7 @@
         {
           "unit": {
             "rawcode": "orai",
-            "name": "orai"
+            "name": "帝王蟹"
           },
           "drop_rate_percent": 100,
           "exclusive": false,
@@ -30764,7 +30764,7 @@
         {
           "unit": {
             "rawcode": "h01K",
-            "name": "h01K"
+            "name": "被遺忘的黑暗怨魔"
           },
           "drop_rate_percent": 2.0,
           "exclusive": false,
@@ -30787,7 +30787,7 @@
         {
           "unit": {
             "rawcode": "n03S",
-            "name": "n03S"
+            "name": "遠古 骨龍"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -30810,7 +30810,7 @@
         {
           "unit": {
             "rawcode": "h018",
-            "name": "h018"
+            "name": "滄海巨獸 領主"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -30833,7 +30833,7 @@
         {
           "unit": {
             "rawcode": "n030",
-            "name": "n030"
+            "name": "祕境守護者法老他爺"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -30856,7 +30856,7 @@
         {
           "unit": {
             "rawcode": "n02N",
-            "name": "n02N"
+            "name": "蒼白焱靈 火焰夢魘"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -30879,7 +30879,7 @@
         {
           "unit": {
             "rawcode": "n033",
-            "name": "n033"
+            "name": "殭屍領主"
           },
           "drop_rate_percent": 1.25,
           "exclusive": false,
@@ -30902,7 +30902,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -30925,7 +30925,7 @@
         {
           "unit": {
             "rawcode": "n02Z",
-            "name": "n02Z"
+            "name": "遠古熔岩巨獸"
           },
           "drop_rate_percent": 25.0,
           "exclusive": false,
@@ -31104,7 +31104,7 @@
         {
           "unit": {
             "rawcode": "n03S",
-            "name": "n03S"
+            "name": "遠古 骨龍"
           },
           "drop_rate_percent": 2.5,
           "exclusive": false,
@@ -31179,7 +31179,7 @@
         {
           "unit": {
             "rawcode": "n015",
-            "name": "n015"
+            "name": "龍龜"
           },
           "drop_rate_percent": 40.0,
           "exclusive": false,
@@ -31202,7 +31202,7 @@
         {
           "unit": {
             "rawcode": "n02V",
-            "name": "n02V"
+            "name": "亡靈 戰神 維扎克斯"
           },
           "drop_rate_percent": 1.75,
           "exclusive": false,
@@ -31225,7 +31225,7 @@
         {
           "unit": {
             "rawcode": "hmpr",
-            "name": "hmpr"
+            "name": "墮落者電棍"
           },
           "drop_rate_percent": 5.0,
           "exclusive": false,
@@ -31274,7 +31274,7 @@
         {
           "unit": {
             "rawcode": "o004",
-            "name": "o004"
+            "name": "海象"
           },
           "drop_rate_percent": 100,
           "exclusive": false,

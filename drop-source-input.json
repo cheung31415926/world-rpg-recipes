@@ -19,8 +19,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -35,7 +35,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -49,8 +49,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "H00V",
-          "unit_name": "H00V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "圣堡阿瓦隆 守门人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -113,8 +113,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -128,8 +128,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Z",
-          "unit_name": "n02Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -150,8 +150,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Z",
-          "unit_name": "n02Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -179,8 +179,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -194,8 +194,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -216,8 +216,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": false
         }
@@ -231,8 +231,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -246,8 +246,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -261,8 +261,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "orai",
-          "unit_name": "orai",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "帝王蟹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -304,8 +304,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -319,8 +319,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.25,
           "exclusive": true
         }
@@ -334,8 +334,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -349,8 +349,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -378,8 +378,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -393,8 +393,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -408,8 +408,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": true
         }
@@ -430,8 +430,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -459,8 +459,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": false
         }
@@ -481,8 +481,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -517,8 +517,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -532,8 +532,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.1,
           "exclusive": true
         }
@@ -652,15 +652,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.05,
           "exclusive": false
         },
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -674,8 +674,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -696,8 +696,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -746,8 +746,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o005",
-          "unit_name": "o005",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "金刚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -775,8 +775,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.75,
           "exclusive": false
         }
@@ -832,8 +832,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00A",
-          "unit_name": "n00A",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "银色利爪族狼",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -854,8 +854,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 33.0,
           "exclusive": false
         }
@@ -876,8 +876,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00H",
-          "unit_name": "n00H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": false
         }
@@ -891,8 +891,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 33.0,
           "exclusive": false
         }
@@ -927,8 +927,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 33.0,
           "exclusive": false
         }
@@ -984,8 +984,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00A",
-          "unit_name": "n00A",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "银色利爪族狼",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -1013,8 +1013,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00I",
-          "unit_name": "n00I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨魔萨满",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -1028,8 +1028,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00G",
-          "unit_name": "n00G",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊人",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -1106,8 +1106,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00O",
-          "unit_name": "n00O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨魔领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -1121,8 +1121,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.2,
           "exclusive": false
         }
@@ -1143,8 +1143,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 50.0,
           "exclusive": true
         }
@@ -1186,8 +1186,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00J",
-          "unit_name": "n00J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨魔狂战士",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -1201,8 +1201,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00K",
-          "unit_name": "n00K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊怪狂战士",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -1230,8 +1230,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00L",
-          "unit_name": "n00L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊人巫醫",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 9.0,
           "exclusive": false
         }
@@ -1245,8 +1245,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00O",
-          "unit_name": "n00O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨魔领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 50.0,
           "exclusive": false
         }
@@ -1386,8 +1386,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.9,
           "exclusive": false
         }
@@ -1422,8 +1422,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.4,
           "exclusive": false
         }
@@ -1500,8 +1500,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.75,
           "exclusive": false
         }
@@ -1515,8 +1515,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.75,
           "exclusive": false
         }
@@ -1579,15 +1579,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00Y",
-          "unit_name": "n00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人白的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00X",
-          "unit_name": "n00X",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人绿的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1601,8 +1601,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -1616,8 +1616,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -1631,8 +1631,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -1660,8 +1660,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.75,
           "exclusive": false
         }
@@ -1682,8 +1682,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.15,
           "exclusive": true
         }
@@ -1697,8 +1697,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -1712,8 +1712,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09V",
-          "unit_name": "h09V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "古代魔导机器",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.15,
           "exclusive": true
         }
@@ -1804,15 +1804,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00Y",
-          "unit_name": "n00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人白的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00Z",
-          "unit_name": "n00Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人橙的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1826,15 +1826,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n011",
-          "unit_name": "n011",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人蓝的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n010",
-          "unit_name": "n010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人紫的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1855,15 +1855,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n011",
-          "unit_name": "n011",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人蓝的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n010",
-          "unit_name": "n010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人紫的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1877,15 +1877,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n011",
-          "unit_name": "n011",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人蓝的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n010",
-          "unit_name": "n010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人紫的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1913,8 +1913,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01C",
-          "unit_name": "n01C",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "北極熊",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1935,8 +1935,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n018",
-          "unit_name": "n018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰食人妖",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1950,8 +1950,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01C",
-          "unit_name": "n01C",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "北極熊",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1972,8 +1972,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n018",
-          "unit_name": "n018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰食人妖",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -1987,8 +1987,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01C",
-          "unit_name": "n01C",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "北極熊",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2100,8 +2100,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00S",
-          "unit_name": "h00S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉卫兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2115,8 +2115,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00S",
-          "unit_name": "h00S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉卫兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2144,15 +2144,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00P",
-          "unit_name": "h00P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉步兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h00R",
-          "unit_name": "h00R",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉骑兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2166,15 +2166,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "e01B",
-          "unit_name": "e01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉弓箭手",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h00R",
-          "unit_name": "h00R",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉骑兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2188,8 +2188,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00S",
-          "unit_name": "h00S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉卫兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2203,8 +2203,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01I",
-          "unit_name": "n01I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩野兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 20.0,
           "exclusive": false
         }
@@ -2330,8 +2330,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01I",
-          "unit_name": "n01I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩野兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 20.0,
           "exclusive": false
         }
@@ -2345,15 +2345,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01F",
-          "unit_name": "n01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩幼体",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01G",
-          "unit_name": "n01G",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2367,15 +2367,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01F",
-          "unit_name": "n01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩幼体",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01H",
-          "unit_name": "n01H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩蠕虫",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -2396,8 +2396,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01I",
-          "unit_name": "n01I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩野兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 20.0,
           "exclusive": false
         }
@@ -2418,8 +2418,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -2433,8 +2433,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -2448,8 +2448,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.2,
           "exclusive": false
         }
@@ -2463,8 +2463,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.2,
           "exclusive": false
         }
@@ -2478,8 +2478,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -2493,8 +2493,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -2508,8 +2508,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -2523,8 +2523,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -2559,8 +2559,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 15.0,
           "exclusive": false
         }
@@ -2574,8 +2574,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -2589,8 +2589,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2611,8 +2611,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -2627,7 +2627,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 20.0,
           "exclusive": false
         }
@@ -2662,8 +2662,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -2677,8 +2677,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -2692,8 +2692,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -2715,7 +2715,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 20.0,
           "exclusive": false
         }
@@ -2730,7 +2730,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2744,22 +2744,22 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -2781,7 +2781,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2796,7 +2796,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2811,7 +2811,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2826,7 +2826,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -2841,7 +2841,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2856,7 +2856,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -2871,7 +2871,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2885,8 +2885,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2900,8 +2900,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -2915,22 +2915,22 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -2945,7 +2945,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2960,7 +2960,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2975,7 +2975,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -2990,7 +2990,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -3012,7 +3012,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -3041,7 +3041,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -3077,7 +3077,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3099,7 +3099,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -3114,7 +3114,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3129,7 +3129,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3151,7 +3151,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3166,7 +3166,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3180,8 +3180,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3202,8 +3202,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3232,7 +3232,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3254,7 +3254,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3269,7 +3269,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3298,7 +3298,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3347,8 +3347,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3362,8 +3362,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3378,7 +3378,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3393,7 +3393,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3408,7 +3408,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3423,7 +3423,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3438,7 +3438,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3467,7 +3467,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3481,15 +3481,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3545,8 +3545,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -3574,8 +3574,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3589,8 +3589,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01E",
-          "unit_name": "n01E",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨型极地熊",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 40.0,
           "exclusive": true
         }
@@ -3604,8 +3604,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3626,15 +3626,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3648,8 +3648,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -3684,8 +3684,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09V",
-          "unit_name": "h09V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "古代魔导机器",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.6,
           "exclusive": false
         }
@@ -3699,8 +3699,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3714,15 +3714,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3736,8 +3736,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3751,15 +3751,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         },
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3780,15 +3780,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00X",
-          "unit_name": "n00X",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人绿的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00Z",
-          "unit_name": "n00Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人橙的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -3810,7 +3810,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -3824,8 +3824,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -3846,8 +3846,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -3861,8 +3861,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n019",
-          "unit_name": "n019",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰食人妖牧師",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -3876,15 +3876,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "e01B",
-          "unit_name": "e01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉弓箭手",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h00R",
-          "unit_name": "h00R",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉骑兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -3905,15 +3905,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01G",
-          "unit_name": "n01G",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01H",
-          "unit_name": "n01H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩蠕虫",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -3934,8 +3934,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -3950,7 +3950,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -3978,8 +3978,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.2,
           "exclusive": false
         }
@@ -3994,7 +3994,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -4022,15 +4022,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02B",
-          "unit_name": "n02B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "花岗岩傀儡",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h01M",
-          "unit_name": "h01M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉 使徒",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4051,15 +4051,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02A",
-          "unit_name": "n02A",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "岩石傀儡",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h01L",
-          "unit_name": "h01L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉 刺客",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4073,15 +4073,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02A",
-          "unit_name": "n02A",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "岩石傀儡",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h01L",
-          "unit_name": "h01L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉 刺客",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4109,8 +4109,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4124,8 +4124,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4139,8 +4139,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4154,8 +4154,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": true
         }
@@ -4169,22 +4169,22 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": true
         },
         {
           "unit_rawcode": "n037",
-          "unit_name": "n037",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.05,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -4247,8 +4247,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 33.0,
           "exclusive": false
         }
@@ -4311,8 +4311,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -4340,8 +4340,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -4369,8 +4369,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -4384,8 +4384,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -4441,8 +4441,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -4526,8 +4526,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "H00V",
-          "unit_name": "H00V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "圣堡阿瓦隆 守门人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 10.0,
           "exclusive": false
         }
@@ -4548,8 +4548,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4563,8 +4563,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4578,8 +4578,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4593,8 +4593,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4608,15 +4608,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4630,8 +4630,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4645,15 +4645,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4667,15 +4667,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02H",
-          "unit_name": "n02H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海巨人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n02I",
-          "unit_name": "n02I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "潮汐召唤者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4689,15 +4689,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02H",
-          "unit_name": "n02H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海巨人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n02I",
-          "unit_name": "n02I",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "潮汐召唤者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4711,8 +4711,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02J",
-          "unit_name": "n02J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海卫兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -4726,8 +4726,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": true
         }
@@ -4741,8 +4741,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.5,
           "exclusive": true
         }
@@ -4777,15 +4777,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4800,7 +4800,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -4821,8 +4821,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4836,8 +4836,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -4851,8 +4851,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4873,8 +4873,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4888,8 +4888,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02L",
-          "unit_name": "n02L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "鲜血亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -4910,8 +4910,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4939,8 +4939,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4968,8 +4968,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -4983,8 +4983,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -5026,8 +5026,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -5048,8 +5048,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -5133,8 +5133,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": false
         }
@@ -5239,8 +5239,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -5324,8 +5324,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o004",
-          "unit_name": "o004",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海象",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -5339,8 +5339,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o004",
-          "unit_name": "o004",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海象",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -5354,8 +5354,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o005",
-          "unit_name": "o005",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "金刚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -5369,8 +5369,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o005",
-          "unit_name": "o005",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "金刚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -5384,8 +5384,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 50.0,
           "exclusive": true
         }
@@ -5455,8 +5455,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -5470,8 +5470,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -5485,8 +5485,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -5514,8 +5514,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": false
         }
@@ -5557,8 +5557,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -5621,15 +5621,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00X",
-          "unit_name": "n00X",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人绿的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00Z",
-          "unit_name": "n00Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "深海鱼人橙的",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -5650,8 +5650,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n019",
-          "unit_name": "n019",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰食人妖牧師",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -5679,15 +5679,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00P",
-          "unit_name": "h00P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉步兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h00R",
-          "unit_name": "h00R",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉骑兵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -5701,8 +5701,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -5716,15 +5716,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01G",
-          "unit_name": "n01G",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01H",
-          "unit_name": "n01H",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熔岩蠕虫",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -5739,7 +5739,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 12.5,
           "exclusive": false
         }
@@ -5760,8 +5760,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -5775,8 +5775,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -5790,8 +5790,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -5813,7 +5813,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -5835,7 +5835,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -5884,8 +5884,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -5899,8 +5899,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -6033,8 +6033,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "H00V",
-          "unit_name": "H00V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "圣堡阿瓦隆 守门人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.5,
           "exclusive": false
         }
@@ -6083,8 +6083,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": true
         }
@@ -6098,8 +6098,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h014",
-          "unit_name": "h014",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "触须统治者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": true
         }
@@ -6113,8 +6113,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00Y",
-          "unit_name": "h00Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨人魔像",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": true
         }
@@ -6128,8 +6128,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.5,
           "exclusive": false
         }
@@ -6143,8 +6143,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h010",
-          "unit_name": "h010",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古法老",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -6159,7 +6159,7 @@
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.5,
           "exclusive": false
         }
@@ -6201,8 +6201,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09V",
-          "unit_name": "h09V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "古代魔导机器",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -6671,8 +6671,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6686,8 +6686,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6701,8 +6701,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6716,8 +6716,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6731,8 +6731,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6746,8 +6746,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -6775,8 +6775,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n043",
-          "unit_name": "n043",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "混沌精灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 12.0,
           "exclusive": false
         }
@@ -7028,8 +7028,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -7043,8 +7043,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -7275,8 +7275,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09V",
-          "unit_name": "h09V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "古代魔导机器",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.8,
           "exclusive": false
         }
@@ -7332,8 +7332,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -7347,8 +7347,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.2,
           "exclusive": true
         }
@@ -7369,8 +7369,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.15,
           "exclusive": true
         }
@@ -7419,8 +7419,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.25,
           "exclusive": false
         }
@@ -7833,8 +7833,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -7848,8 +7848,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -7863,8 +7863,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -7892,43 +7892,43 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": true
         },
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": true
         },
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": true
         },
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": true
         },
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": true
         },
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": true
         }
@@ -7942,36 +7942,36 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.8,
           "exclusive": true
         },
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.8,
           "exclusive": true
         },
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.9,
           "exclusive": true
         },
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": true
         },
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": true
         }
@@ -7985,8 +7985,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09V",
-          "unit_name": "h09V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "古代魔导机器",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.8,
           "exclusive": false
         }
@@ -8000,8 +8000,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.25,
           "exclusive": true
         }
@@ -8015,8 +8015,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": false
         }
@@ -8184,8 +8184,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h07P",
-          "unit_name": "h07P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海洋守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -8199,8 +8199,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h07P",
-          "unit_name": "h07P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海洋守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -8214,8 +8214,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h07P",
-          "unit_name": "h07P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海洋守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -8229,8 +8229,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h07P",
-          "unit_name": "h07P",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海洋守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -8272,8 +8272,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8287,8 +8287,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8302,8 +8302,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8317,8 +8317,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h077",
-          "unit_name": "h077",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "地底君主 阿迦瑞斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8542,29 +8542,29 @@
       "drop_sources": [
         {
           "unit_rawcode": "n00G",
-          "unit_name": "n00G",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊人",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 5.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00K",
-          "unit_name": "n00K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊怪狂战士",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n00L",
-          "unit_name": "n00L",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊人巫醫",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 25.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "n01B",
-          "unit_name": "n01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊怪巨人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -8606,8 +8606,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n015",
-          "unit_name": "n015",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "龍龜",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 40.0,
           "exclusive": false
         }
@@ -8691,8 +8691,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -8720,8 +8720,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.75,
           "exclusive": false
         }
@@ -8868,8 +8868,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": false
         }
@@ -8883,8 +8883,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": false
         }
@@ -8898,8 +8898,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": false
         }
@@ -8920,8 +8920,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h08K",
-          "unit_name": "h08K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "公爵 拉撒路",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8935,8 +8935,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h09B",
-          "unit_name": "h09B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "土灵战神盖亚",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -8950,8 +8950,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0AB",
-          "unit_name": "h0AB",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "光之引导者 凯梅尔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -9217,8 +9217,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9281,8 +9281,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.25,
           "exclusive": true
         }
@@ -9296,8 +9296,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -9325,8 +9325,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -9340,8 +9340,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.0,
           "exclusive": false
         }
@@ -9355,8 +9355,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -9370,8 +9370,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9385,8 +9385,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "oshm",
-          "unit_name": "oshm",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰原猛犸",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -9414,8 +9414,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01B",
-          "unit_name": "h01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "元素领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9443,8 +9443,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -9458,8 +9458,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9488,7 +9488,7 @@
         {
           "unit_rawcode": "n01O",
           "unit_name": "堕落天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9517,7 +9517,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 7.5,
           "exclusive": false
         }
@@ -9538,8 +9538,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9553,8 +9553,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01J",
-          "unit_name": "n01J",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火焰统治者 拉格纳",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -9568,8 +9568,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9583,8 +9583,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -9598,8 +9598,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9628,7 +9628,7 @@
         {
           "unit_rawcode": "n01K",
           "unit_name": "斯亡之翼（绿龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9642,8 +9642,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n023",
-          "unit_name": "n023",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜领主卡尔特兹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9657,8 +9657,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -9673,7 +9673,7 @@
         {
           "unit_rawcode": "n022",
           "unit_name": "拉芙海统治者 许德拉（九头龙）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9694,8 +9694,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o003",
-          "unit_name": "o003",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "自然守护者",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": false
         }
@@ -9730,8 +9730,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -9752,22 +9752,22 @@
       "drop_sources": [
         {
           "unit_rawcode": "h04O",
-          "unit_name": "h04O",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "雷电战神 瓦尔托拉",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": false
         },
         {
           "unit_rawcode": "h060",
-          "unit_name": "h060",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "火灵战神·伊弗利特",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         },
         {
           "unit_rawcode": "h06T",
-          "unit_name": "h06T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "水灵战神",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.0,
           "exclusive": false
         }
@@ -9781,8 +9781,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -9796,8 +9796,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -9825,8 +9825,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "orai",
-          "unit_name": "orai",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "帝王蟹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -9854,8 +9854,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9869,8 +9869,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -9884,8 +9884,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "oshm",
-          "unit_name": "oshm",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰原猛犸",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -9906,8 +9906,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02M",
-          "unit_name": "n02M",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "枭兽 雷奥利斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -9922,7 +9922,7 @@
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -9964,8 +9964,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": false
         }
@@ -9979,8 +9979,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -9994,8 +9994,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": false
         }
@@ -10023,8 +10023,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -10066,8 +10066,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10116,8 +10116,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -10131,8 +10131,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01B",
-          "unit_name": "n01B",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "熊怪巨人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 40.0,
           "exclusive": false
         }
@@ -10160,8 +10160,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 3.75,
           "exclusive": false
         }
@@ -10175,8 +10175,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h0A1",
-          "unit_name": "h0A1",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "灵魂收割者·斯蒂里克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.4,
           "exclusive": false
         }
@@ -10204,8 +10204,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Z",
-          "unit_name": "n02Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -10219,8 +10219,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01E",
-          "unit_name": "n01E",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "巨型极地熊",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 40.0,
           "exclusive": true
         }
@@ -10241,8 +10241,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10277,8 +10277,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -10292,8 +10292,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03Y",
-          "unit_name": "n03Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 怪人",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -10321,8 +10321,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10350,8 +10350,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -10365,8 +10365,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -10422,8 +10422,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01W",
-          "unit_name": "n01W",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "杰克隆登",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.25,
           "exclusive": true
         }
@@ -10437,8 +10437,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10459,8 +10459,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Z",
-          "unit_name": "n02Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -10474,8 +10474,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10497,7 +10497,7 @@
         {
           "unit_rawcode": "H00F",
           "unit_name": "瓦几内拉伯爵",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10525,8 +10525,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -10540,8 +10540,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Y",
-          "unit_name": "n02Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被诅咒的冰霜巨龙 辛德拉苟萨",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.5,
           "exclusive": false
         }
@@ -10576,8 +10576,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10598,8 +10598,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o000",
-          "unit_name": "o000",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "主天使 哈乜嘢",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -10613,8 +10613,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h00T",
-          "unit_name": "h00T",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 爵士 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": true
         }
@@ -10628,15 +10628,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n036",
-          "unit_name": "n036",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "噬魂尸虫",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.1,
           "exclusive": false
         },
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10699,15 +10699,15 @@
       "drop_sources": [
         {
           "unit_rawcode": "n037",
-          "unit_name": "n037",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "瓦几内拉古堡 亡灵",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.1,
           "exclusive": false
         },
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10729,7 +10729,7 @@
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10750,8 +10750,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -10772,8 +10772,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "orai",
-          "unit_name": "orai",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "帝王蟹",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -10787,8 +10787,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h01K",
-          "unit_name": "h01K",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "被遗忘的黑暗怨魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.0,
           "exclusive": false
         }
@@ -10802,8 +10802,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -10824,8 +10824,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10846,8 +10846,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n030",
-          "unit_name": "n030",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "秘境守护者法老他爷",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -10861,8 +10861,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02N",
-          "unit_name": "n02N",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "苍白焱灵 火焰梦魇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10876,8 +10876,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "oshm",
-          "unit_name": "oshm",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰原猛犸",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -10891,8 +10891,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n033",
-          "unit_name": "n033",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "僵尸领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.25,
           "exclusive": false
         }
@@ -10906,8 +10906,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -10921,8 +10921,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "H01F",
-          "unit_name": "H01F",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "蜘蛛女皇",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.01,
           "exclusive": true
         }
@@ -10936,8 +10936,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02Z",
-          "unit_name": "n02Z",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古熔岩巨兽",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 25.0,
           "exclusive": false
         }
@@ -11078,7 +11078,7 @@
         {
           "unit_rawcode": "n01N",
           "unit_name": "第三军团守卫军 白天使",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.0015,
           "exclusive": true
         }
@@ -11113,8 +11113,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n03S",
-          "unit_name": "n03S",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "远古 骨龙",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 2.5,
           "exclusive": false
         }
@@ -11135,8 +11135,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h034",
-          "unit_name": "h034",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "冰霜巨蛛 极寒领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -11171,8 +11171,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n015",
-          "unit_name": "n015",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "龍龜",
+          "unit_name_source": "War3xLocal.mpq",
           "drop_rate_percent": 40.0,
           "exclusive": false
         }
@@ -11186,8 +11186,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n02V",
-          "unit_name": "n02V",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "亡灵 战神 维扎克斯",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 1.75,
           "exclusive": false
         }
@@ -11202,7 +11202,7 @@
         {
           "unit_rawcode": "n038",
           "unit_name": "瓦几内拉古堡领主（黑瓜）",
-          "unit_name_source": "script_override",
+          "unit_name_source": "twrpg0.92_original.j",
           "drop_rate_percent": 0.005,
           "exclusive": false
         }
@@ -11216,8 +11216,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "hmpr",
-          "unit_name": "hmpr",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "堕落者电棍",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 5.0,
           "exclusive": false
         }
@@ -11252,8 +11252,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "o004",
-          "unit_name": "o004",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "海象",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 100,
           "exclusive": false
         }
@@ -11288,8 +11288,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "h018",
-          "unit_name": "h018",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "沧海巨兽 领主",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
@@ -11303,8 +11303,8 @@
       "drop_sources": [
         {
           "unit_rawcode": "n01Y",
-          "unit_name": "n01Y",
-          "unit_name_source": "rawcode_fallback",
+          "unit_name": "恶魔领主 恶魔",
+          "unit_name_source": "war3map.w3u",
           "drop_rate_percent": 0.005,
           "exclusive": true
         }
